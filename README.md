@@ -1,3 +1,5 @@
+# Original Project: https://github.com/francesco-mannella/neunet-basics
+
 # neunet-basics
 ## Getting started with neural networks in python
 
